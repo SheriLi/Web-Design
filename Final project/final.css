@@ -1,0 +1,10 @@
+/*CSS Document*/
+h1, p.footer{text-align:center;}
+body{margin:50px;
+font-family: "Times New Roman";
+    font-size: 18pt; }
+p.footer{font-family: "Comic Sans MS";
+    font-size: 14pt;}
+body{background-image:url("http://www.build-iphone.com/uploads/soft/iPad%20Wallpaper/Abstract/best%20wallpaper%20backgrounds.jpg");
+background-repeat:no-repeat;
+background-size:cover;}
